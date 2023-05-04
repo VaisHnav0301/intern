@@ -1,0 +1,16 @@
+.ty{
+    padding: 5%;
+    text-align: center;
+    margin: 80px;
+    padding-left: 20%;
+    padding-right: 20%;
+    border-color: black;
+    
+    background-color: transparent;
+}
+
+.vd{
+    padding-left: 20%;
+    border: double;
+    background-image: url(https://img.freepik.com/free-vector/white-abstract-background-design_23-2148825582.jpg?w=2000);
+}
